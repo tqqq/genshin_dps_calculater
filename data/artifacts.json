@@ -1,0 +1,463 @@
+{
+    "flower": [
+        {
+            "id": 0,
+            "type": "hai_ran",
+            "info": {
+                "extra_health": 4780,
+                "percent_defense": 13.1,
+                "percent_attack": 15.7,
+                "extra_attack": 39,
+                "recharge": 5.8
+            }
+        },
+        {
+            "id": 1,
+            "type": "jue_yuan",
+            "info": {
+                "extra_health": 4780,
+                "crit_damage": 14.0,
+                "crit_rate": 10.5,
+                "percent_health": 5.3,
+                "percent_attack": 10.5
+            }
+        },
+        {
+            "id": 2,
+            "type": "jue_yuan",
+            "info": {
+                "extra_health": 4780,
+                "crit_rate": 6.2,
+                "mastery": 21,
+                "recharge": 17.5,
+                "extra_attack": 39
+            }
+        },
+        {
+            "id": 3,
+            "type": "jue_yuan",
+            "info": {
+                "extra_health": 4780,
+                "mastery": 40,
+                "crit_rate": 5.8,
+                "extra_attack": 31,
+                "crit_damage": 13.2
+            }
+        },
+        {
+            "id": 4,
+            "type": "zhui_yi",
+            "info": {
+                "extra_health": 4780,
+                "recharge": 11.7,
+                "crit_damage": 14.0,
+                "extra_attack": 76,
+                "crit_rate": 3.1
+            }
+        },
+        {
+            "id": 5,
+            "type": "zhui_yi",
+            "info": {
+                "extra_health": 4780,
+                "extra_attack": 49,
+                "recharge": 5.8,
+                "crit_rate": 6.2,
+                "crit_damage": 13.2
+            }
+        },
+        {
+            "id": 6,
+            "type": "cang_bai",
+            "info": {
+                "extra_health": 4780,
+                "crit_rate": 7.4,
+                "recharge": 16.2,
+                "extra_defense": 39,
+                "crit_damage": 7.0
+            }
+        },
+        {
+            "id": 7,
+            "type": "cang_bai",
+            "info": {
+                "extra_health": 4780,
+                "percent_defense": 5.8,
+                "crit_damage": 13.2,
+                "extra_attack": 47,
+                "crit_rate": 7.4
+            }
+        },
+        {
+            "id": 8,
+            "type": "cang_bai",
+            "info": {
+                "extra_health": 4780,
+                "crit_damage": 20.2,
+                "percent_attack": 5.3,
+                "recharge": 15.5,
+                "extra_attack": 18
+            }
+        },
+        {
+            "id": 9,
+            "type": "zong_shi",
+            "info": {
+                "extra_health": 4780,
+                "extra_defense": 56,
+                "recharge": 17.5,
+                "crit_damage": 7.0,
+                "crit_rate": 2.7
+            }
+        },
+        {
+            "id": 10,
+            "type": "zong_shi",
+            "info": {
+                "extra_health": 4780,
+                "percent_health": 4.7,
+                "extra_attack": 37,
+                "recharge": 16.8,
+                "percent_defense": 13.1
+            }
+        },
+        {
+            "id": 11,
+            "type": "yue_tuan",
+            "info": {
+                "extra_health": 4780,
+                "crit_damage": 5.4,
+                "recharge": 11.7,
+                "percent_attack": 16.3,
+                "crit_rate": 9.7
+            }
+        }
+    ],
+    "feather": [
+        {
+            "id": 0,
+            "type": "hai_ran",
+            "info": {
+                "extra_attack": 311,
+                "percent_defense": 10.9,
+                "percent_attack": 21.6,
+                "percent_health": 4.1,
+                "extra_health": 269
+            }
+        },
+        {
+            "id": 1,
+            "type": "jue_yuan",
+            "info": {
+                "extra_attack": 311,
+                "percent_defense": 18.2,
+                "crit_damage": 6.2,
+                "percent_attack": 16.3,
+                "recharge": 6.5
+            }
+        },
+        {
+            "id": 2,
+            "type": "jue_yuan",
+            "info": {
+                "extra_attack": 311,
+                "percent_defense": 6.6,
+                "crit_damage": 6.2,
+                "crit_rate": 9.7,
+                "extra_defense": 56
+            }
+        },
+        {
+            "id": 3,
+            "type": "jue_yuan",
+            "info": {
+                "extra_attack": 311,
+                "extra_health": 299,
+                "recharge": 12.3,
+                "crit_damage": 21.0,
+                "percent_attack": 8.2
+            }
+        },
+        {
+            "id": 4,
+            "type": "cang_bai",
+            "info": {
+                "extra_attack": 311,
+                "crit_rate": 7.8,
+                "crit_damage": 21.8,
+                "extra_defense": 16,
+                "extra_health": 448
+            }
+        },
+        {
+            "id": 5,
+            "type": "qian_yan",
+            "info": {
+                "extra_attack": 311,
+                "extra_health": 568,
+                "recharge": 4.5,
+                "percent_health": 23.3,
+                "crit_rate": 3.5
+            }
+        },
+        {
+            "id": 6,
+            "type": "qian_yan",
+            "info": {
+                "extra_attack": 311,
+                "crit_rate": 9.3,
+                "mastery": 16,
+                "percent_attack": 9.9,
+                "crit_damage": 14.8
+            }
+        },
+        {
+            "id": 7,
+            "type": "yue_tuan",
+            "info": {
+                "extra_attack": 311,
+                "crit_damage": 11.7,
+                "percent_attack": 9.9,
+                "extra_defense": 42,
+                "crit_rate": 9.7
+            }
+        },
+        {
+            "id": 8,
+            "type": "yue_tuan",
+            "info": {
+                "extra_attack": 311,
+                "crit_rate": 7.0,
+                "extra_defense": 32,
+                "mastery": 42,
+                "crit_damage": 14.0
+            }
+        }
+    ],
+    "sand": [
+        {
+            "id": 0,
+            "type": "jue_yuan",
+            "info": {
+                "recharge": 51.8,
+                "mastery": 56,
+                "percent_health": 4.1,
+                "extra_health": 538,
+                "extra_attack": 33
+            }
+        },
+        {
+            "id": 1,
+            "type": "zhui_yi",
+            "info": {
+                "percent_attack": 46.6,
+                "extra_attack": 35,
+                "crit_rate": 13.6,
+                "percent_defense": 5.1,
+                "crit_damage": 12.4
+            }
+        },
+        {
+            "id": 2,
+            "type": "zhui_yi",
+            "info": {
+                "recharge": 51.8,
+                "percent_attack": 4.1,
+                "crit_rate": 5.8,
+                "extra_defense": 37,
+                "crit_damage": 21.8
+            }
+        },
+        {
+            "id": 3,
+            "type": "qian_yan",
+            "info": {
+                "mastery": 187,
+                "crit_rate": 10.1,
+                "crit_damage": 7.8,
+                "extra_defense": 37,
+                "percent_attack": 10.5
+            }
+        },
+        {
+            "id": 4,
+            "type": "yue_tuan",
+            "info": {
+                "percent_attack": 46.6,
+                "extra_attack": 19,
+                "crit_damage": 29.5,
+                "extra_defense": 23,
+                "extra_health": 239
+            }
+        }
+    ],
+    "cup": [
+        {
+            "id": 0,
+            "type": "hai_ran",
+            "info": {
+                "percent_attack": 46.6,
+                "percent_health": 11.7,
+                "extra_attack": 49,
+                "recharge": 9.7,
+                "mastery": 19
+            }
+        },
+        {
+            "id": 1,
+            "type": "jue_yuan",
+            "info": {
+                "percent_attack": 46.6,
+                "extra_health": 777,
+                "percent_health": 11.7,
+                "extra_attack": 16,
+                "crit_rate": 8.6
+            }
+        },
+        {
+            "id": 2,
+            "type": "jue_yuan",
+            "info": {
+                "percent_health": 46.6,
+                "extra_defense": 21,
+                "extra_health": 448,
+                "recharge": 14.2,
+                "extra_attack": 49
+            }
+        },
+        {
+            "id": 3,
+            "type": "jue_yuan",
+            "info": {
+                "fire_damage": 46.6,
+                "percent_attack": 11.1,
+                "recharge": 10.4,
+                "extra_defense": 37,
+                "mastery": 42
+            }
+        },
+        {
+            "id": 4,
+            "type": "jue_yuan",
+            "info": {
+                "percent_attack": 46.6,
+                "crit_rate": 6.6,
+                "extra_attack": 35,
+                "extra_defense": 60,
+                "mastery": 16
+            }
+        },
+        {
+            "id": 5,
+            "type": "jue_yuan",
+            "info": {
+                "ice_damage": 46.6,
+                "extra_health": 239,
+                "crit_damage": 14.8,
+                "crit_rate": 6.2,
+                "percent_health": 14.0
+            }
+        },
+        {
+            "id": 6,
+            "type": "qian_yan",
+            "info": {
+                "thunder_damage": 46.6,
+                "recharge": 16.2,
+                "percent_defense": 11.7,
+                "crit_rate": 3.9,
+                "mastery": 40
+            }
+        },
+        {
+            "id": 7,
+            "type": "zong_shi",
+            "info": {
+                "physical_damage": 58.3,
+                "percent_defense": 13.1,
+                "percent_attack": 11.1,
+                "recharge": 12.3,
+                "crit_rate": 9.3
+            }
+        },
+        {
+            "id": 8,
+            "type": "zong_shi",
+            "info": {
+                "ice_damage": 46.6,
+                "crit_damage": 14.0,
+                "recharge": 22.7,
+                "percent_defense": 6.6,
+                "percent_attack": 4.7
+            }
+        }
+    ],
+    "head": [
+        {
+            "id": 0,
+            "type": "jue_yuan",
+            "info": {
+                "crit_rate": 31.1,
+                "mastery": 23,
+                "crit_damage": 14.0,
+                "percent_attack": 15.2,
+                "recharge": 12.3
+            }
+        },
+        {
+            "id": 1,
+            "type": "jue_yuan",
+            "info": {
+                "crit_rate": 31.1,
+                "mastery": 68,
+                "percent_health": 4.7,
+                "recharge": 4.5,
+                "extra_attack": 49
+            }
+        },
+        {
+            "id": 2,
+            "type": "cang_bai",
+            "info": {
+                "crit_rate": 31.1,
+                "percent_defense": 6.6,
+                "extra_defense": 37,
+                "percent_attack": 4.7,
+                "crit_damage": 28.0
+            }
+        },
+        {
+            "id": 3,
+            "type": "qian_yan",
+            "info": {
+                "percent_health": 46.6,
+                "recharge": 11.0,
+                "extra_health": 538,
+                "crit_rate": 9.7,
+                "extra_attack": 14
+            }
+        },
+        {
+            "id": 4,
+            "type": "zong_shi",
+            "info": {
+                "percent_health": 46.6,
+                "recharge": 6.5,
+                "percent_defense": 11.7,
+                "percent_attack": 14.6,
+                "extra_attack": 31
+            }
+        },
+        {
+            "id": 5,
+            "type": "zong_shi",
+            "info": {
+                "crit_rate": 31.1,
+                "extra_attack": 16,
+                "extra_health": 448,
+                "recharge": 20.1,
+                "percent_health": 5.3
+            }
+        }
+    ]
+}
